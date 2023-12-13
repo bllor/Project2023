@@ -52,6 +52,17 @@ dependencies {
 	runtimeOnly group: 'io.jsonwebtoken', name: 'jjwt-impl', version: '0.11.5'
 	runtimeOnly group: 'io.jsonwebtoken', name: 'jjwt-jackson', version: '0.11.5'
 	//jwt end
+
+	//swagger
+	// https://mvnrepository.com/artifact/io.swagger.core.v3/swagger-annotations
+	implementation group: 'io.swagger.core.v3', name: 'swagger-annotations', version: '2.2.19'
+	//swagger end
+	//SpringDoc
+	// https://mvnrepository.com/artifact/org.springdoc/springdoc-openapi-starter-webmvc-ui
+	implementation group: 'org.springdoc', name: 'springdoc-openapi-starter-webmvc-ui', version: '2.3.0'
+
+	//SpringDoc End
+
 }
 
 tasks.named('test') {

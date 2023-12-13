@@ -10,7 +10,7 @@ const props = defineProps({
 });
 const defaultImagePath = "/img/baseImg.png";
 const myImgProp = ref({
-  src: (props.content === undefined || props.content===null) ? defaultImagePath : import.meta.env.VITE_APP_BASES3_RESOURCE_URL + props.content,
+  src: (props.content === undefined || props.content===null) ? defaultImagePath : import.meta.env.VITE_APP_BASE_RESOURCE_URL + props.content,
 });
 
 </script>
