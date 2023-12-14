@@ -1,7 +1,4 @@
-<div align=center>![image](https://github.com/bllor/Project2023/assets/136154061/11ed3bd8-d5a2-4b92-9045-2232bc3a2e3e)</div>
-<br>
----
-<h1>👩‍💻 프로젝트 소개</h1><br>
+<h1>Kmarket</h1><br>
 jsp를 사용하여 제작한 쇼핑몰 사이트입니다.
 
 <h1>⏱ 프로젝트 기간</h1><br>
