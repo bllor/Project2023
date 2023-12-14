@@ -15,17 +15,9 @@ jsp를 사용하여 제작한 쇼핑몰 사이트입니다.
 |박경진|개발자|상품 목록, 상품보기|
 |박성용|개발자|로그인, 회원가입, 회원약관|
 <br>
+<h1>🌟프로젝트 메인 페이지 소개</h1><br>
 
-<h1>🖥개발 환경</h1><br>
-
-**OS** : Window10<br>
-**Browser** : Chorme 117.0.5938<br>
-**Language(Server)** : Java17 Servlet4.0 JSP2<br>
-**Language(Client)** : HTML5 CSS3 JavaScript(Es6) jQuery3.1<br>
-**Library** : <br>activation-1.1.1.jar<br> cos-05Nov2022.jar<br> gson-2.10.1.jar <br>javax.mail-1.6.2.jar <br>jstl-1.2.jar<br> logback-classic-1.4.11.jar <br>logback-core-1.4.11.jar <br>mysql-connector-java-8.0.32.jar <br>slf4j-api-2.0.7.jar<br> etc<br>
-**DMBS** : MySQL 8.0<br>
-**Tool** : Eclipse IDE 2023-06, Mysql Workbench 8.0.21, HeidSQL 12.5 ,Git 2.41.0 ,Github
-<br>
+![image](https://github.com/bllor/Project2023/assets/136154061/a1eafbf6-0825-490e-afd9-91ed75fc52ca)
 
 <h1>본인 주요 개발기능</h1>
 
@@ -41,6 +33,15 @@ jsp를 사용하여 제작한 쇼핑몰 사이트입니다.
 4)답글달기(QnA): 고객센터에서 작성된 문의글에 답글을 달 수 있으며, 답글을 달 경우 답변완료로 상태가 변경이 된다.<br>
 <br>
 
+<h1>🖥개발 환경</h1>
+**OS** : Window10<br>
+**Browser** : Chorme 117.0.5938<br>
+**Language(Server)** : Java17 Servlet4.0 JSP2<br>
+**Language(Client)** : HTML5 CSS3 JavaScript(Es6) jQuery3.1<br>
+**Library** : <br>activation-1.1.1.jar<br> cos-05Nov2022.jar<br> gson-2.10.1.jar <br>javax.mail-1.6.2.jar <br>jstl-1.2.jar<br> logback-classic-1.4.11.jar <br>logback-core-1.4.11.jar <br>mysql-connector-java-8.0.32.jar <br>slf4j-api-2.0.7.jar<br> etc<br>
+**DMBS** : MySQL 8.0<br>
+**Tool** : Eclipse IDE 2023-06, Mysql Workbench 8.0.21, HeidSQL 12.5 ,Git 2.41.0 ,Github
+<br>
 <h1>프로젝트를 하면서 느낀 점</h1>
 
 이번 팀프로젝트는 처음으로 팀원들과 협업하여 진행한 프로젝트로 많은 배움을 주었습니다. 이번 프로젝트를 통해서 배운 것은 다음과 같습니다.<br>
