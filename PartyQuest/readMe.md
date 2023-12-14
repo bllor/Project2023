@@ -4,11 +4,11 @@
 개발자 스터디 모임 커뮤니티 웹사이트
 
 
-
+<br>
 <h1> ⏱ 프로젝트 기간</h1><br>
 23.11.01~23.12.08(28일 224시간)
 
-
+<br>
 <h1>👫 멤버소개</h1><br>
 
 |이름|직책|역할|
@@ -17,19 +17,19 @@
 |최동일|개발자|스터디 신청, 스터디 참여자 목록, 알림 기능, 승인제 스터디 대기명단 기능, 개발 보고서 작성|
 |박경진|개발자|스터디 보기, 스터디 수정, 스터디 삭제, 커뮤니티, 개발 보고서 작성|
 |이현정|개발자|스터디 모임 생성, 좋아요 기능, 유효성 검증, 이메일 인증, CS(고객센터) 목록 출력 및 페이징,<br> 와이어 프레임 제작, 개발 보고서 작성, 발표 PPT 제작|
-
+<br>
 <h1>🌟프로젝트 페이지 소개</h1><br>
 
 ![파티퀘스트 메인 화면](https://github.com/Phoenix-Argo/partyquest/assets/136154061/92938a4c-f031-4c6f-a77c-8f3ae325dca7)
 
-
+<br>
 <h1> 🎱프로젝트 결과</h1><br>
 
 -국비 팀프로젝트 1위<br>
 -[PARTY_QUEST_결과보고서](https://github.com/Phoenix-Argo/partyquest/files/13626327/PARTY_QUEST_.pdf): 개발한 서비스의 결과 보고서 입니다.<br>
 -[PARTY_QUEST_발표PPT](https://github.com/Phoenix-Argo/partyquest/files/13626330/party_quest_PPT.pdf): 개발한 서비스의 발표 보고서 입니다.
 
-
+<br>
 <h1> 🌝프로젝트 주요 기능 소개</h1><br>
 
 **1.멤버**<br>
@@ -62,7 +62,7 @@
 -자주 묻는 질문 목록 및 보기<br>
 -약관<br>
 
-
+<br>
 <h1> 🖥개발 환경</h1><br>
 
 **OS**: Window10<br>
@@ -86,7 +86,7 @@ etc<br>
 2023.2.2 HeidSQL 12.x <br>Git 2.x.x <br>Github<br> Jira<br> Figma
 
 
-
+<br>
 <h1>🏗정보구조(IA : Information Architecture)</h1><br>
 
 ![image](https://github.com/Phoenix-Argo/partyquest/assets/136154061/798db383-134f-4ed8-b46a-391fd8eac82f)
