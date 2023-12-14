@@ -1,11 +1,12 @@
 ![image](https://github.com/bllor/Project2023/assets/136154061/11ed3bd8-d5a2-4b92-9045-2232bc3a2e3e)
+<br>
 ---
 <h1>👩‍💻 프로젝트 소개</h1><br>
 jsp를 사용하여 제작한 쇼핑몰 사이트입니다.
 
 <h1>⏱ 프로젝트 기간</h1><br>
 2023.09.11. ~ 2023.09.27(13일, 104시간)
-
+<br>
 <h1>👫 멤버소개</h1>
 
 
@@ -16,6 +17,7 @@ jsp를 사용하여 제작한 쇼핑몰 사이트입니다.
 |최동일|개발자|고객서비스(CS) 글작성, 글 수정, 글목록, 관리자 고객서비스 관리|
 |박경진|개발자|상품 목록, 상품보기|
 |박성용|개발자|로그인, 회원가입, 회원약관|
+<br>
 
 <h1>🖥개발 환경</h1><br>
 
@@ -26,6 +28,7 @@ jsp를 사용하여 제작한 쇼핑몰 사이트입니다.
 **Library** : <br>activation-1.1.1.jar<br> cos-05Nov2022.jar<br> gson-2.10.1.jar <br>javax.mail-1.6.2.jar <br>jstl-1.2.jar<br> logback-classic-1.4.11.jar <br>logback-core-1.4.11.jar <br>mysql-connector-java-8.0.32.jar <br>slf4j-api-2.0.7.jar<br> etc<br>
 **DMBS** : MySQL 8.0<br>
 **Tool** : Eclipse IDE 2023-06, Mysql Workbench 8.0.21, HeidSQL 12.5 ,Git 2.41.0 ,Github
+<br>
 
 <h1>본인 주요 개발기능</h1>
 
@@ -39,6 +42,7 @@ jsp를 사용하여 제작한 쇼핑몰 사이트입니다.
 2)글쓰기(QnA):글 작성 시 대분류 카테고리에 따라 소분류 카테고리가 변경됩니다.<br>
 3)글수정(QnA):글쓰기와 마찬가지로 대분류 카테고리에 따라 소분류 카테고리가 변경됩니다.<br>
 4)답글달기(QnA): 고객센터에서 작성된 문의글에 답글을 달 수 있으며, 답글을 달 경우 답변완료로 상태가 변경이 된다.<br>
+<br>
 
 <h1>프로젝트를 하면서 느낀 점</h1>
 
