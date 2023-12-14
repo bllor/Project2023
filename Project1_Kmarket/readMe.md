@@ -1,4 +1,8 @@
-<h1>Kmarket</h1><br>
+
+<div align=center>![image](https://github.com/bllor/Project2023/assets/136154061/bebfd6ff-c7af-4240-ae0b-db49c65f8a55)</div>
+
+
+<h1>프로젝트 소개</h1><br>
 jsp를 사용하여 제작한 쇼핑몰 사이트입니다.
 
 <h1>⏱ 프로젝트 기간</h1><br>
@@ -20,7 +24,7 @@ jsp를 사용하여 제작한 쇼핑몰 사이트입니다.
 
 ![image](https://github.com/bllor/Project2023/assets/136154061/a1eafbf6-0825-490e-afd9-91ed75fc52ca)
 
-<h1>본인 주요 개발기능</h1>
+<h1>🌝본인 주요 개발기능</h1>
 
 **1.고객센터**<br>
 1)글보기(공지/FAQ/QnA): 게시글이 대분류, 소분류, 작성일, 제목, 내용, 작성자를 각 카테고리에 맞게 출력 및 페이징 처리<br>
