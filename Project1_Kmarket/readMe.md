@@ -18,21 +18,21 @@ jsp를 사용하여 제작한 쇼핑몰 사이트입니다.
 |박성용|개발자|로그인, 회원가입, 회원약관|
 
 <h1>🖥개발 환경</h1><br>
-OS : Window10<br>
-Browser : Chorme 117.0.5938<br>
-Language(Server) : Java17 Servlet4.0 JSP2<br>
-Language(Client) : HTML5 CSS3 JavaScript(Es6) jQuery3.1<br>
-Library : activation-1.1.1.jar<br> cos-05Nov2022.jar<br> gson-2.10.1.jar <br>javax.mail-1.6.2.jar <br>jstl-1.2.jar<br> logback-classic-1.4.11.jar <br>logback-core-1.4.11.jar <br>mysql-connector-java-8.0.32.jar <br>slf4j-api-2.0.7.jar<br> etc<br>
-DMBS : MySQL 8.0<br>
-Tool : Eclipse IDE 2023-06 Mysql Workbench 8.0.21 HeidSQL 12.5 Git 2.41.0 Github
+**OS** : Window10<br>
+**Browser** : Chorme 117.0.5938<br>
+**Language(Server)** : Java17 Servlet4.0 JSP2<br>
+**Language(Client)** : HTML5 CSS3 JavaScript(Es6) jQuery3.1<br>
+**Library** : activation-1.1.1.jar<br> cos-05Nov2022.jar<br> gson-2.10.1.jar <br>javax.mail-1.6.2.jar <br>jstl-1.2.jar<br> logback-classic-1.4.11.jar <br>logback-core-1.4.11.jar <br>mysql-connector-java-8.0.32.jar <br>slf4j-api-2.0.7.jar<br> etc<br>
+**DMBS** : MySQL 8.0<br>
+**Tool** : Eclipse IDE 2023-06 Mysql Workbench 8.0.21 HeidSQL 12.5 Git 2.41.0 Github
 
 <h1>본인 주요 개발기능</h1>
-1.고객센터<br>
+**1.고객센터**<br>
 1)글보기(공지/FAQ/QnA): 게시글이 대분류, 소분류, 작성일, 제목, 내용, 작성자를 각 카테고리에 맞게 출력 및 페이징 처리<br>
 2)글쓰기(QnA):글 작성 시 대분류 카테고리에 따라 소분류 카테고리가 변경됩니다.<br>
 3)글수정(QnA):글쓰기와 마찬가지로 대분류 카테고리에 따라 소분류 카테고리가 변경됩니다.<br>
 <br>
-2.관리자 고객센터
+**2.관리자 고객센터**<br>
 1)글보기(QnA/FAQ): 게시글이 대분류, 소분류, 작성일, 제목, 내용, 작성자를 각 카테고리에 맞게 출력 및 페이징 처리<br>
 2)글쓰기(QnA):글 작성 시 대분류 카테고리에 따라 소분류 카테고리가 변경됩니다.<br>
 3)글수정(QnA):글쓰기와 마찬가지로 대분류 카테고리에 따라 소분류 카테고리가 변경됩니다.<br>
@@ -44,19 +44,19 @@ Tool : Eclipse IDE 2023-06 Mysql Workbench 8.0.21 HeidSQL 12.5 Git 2.41.0 Github
 2.작업의 우선 순위 결정하는 것<br>
 3.모듈화 진행<br>
 <br>
-1.개발 환경 통일의 중요성<br>
+**1.개발 환경 통일의 중요성**<br>
 팀장님은 인텔리제이를, 나머지 조원들은 이클립스를 사용해서 작업을 했습니다.<br>
 그래서 처음 병합하는 날 팀장님이 인텔리제이에 맞게 gitignore를 설정하고, 폴더 구성도 다르게 바꾸어보았지만 이클립스의 환경과 달라서 병합이 되지 않거나, 이클립스에서 프로젝트를 사용할 수 없었습니다.<br>
 꽤 오랜 시간 인텔리제이에 맞게 파일을 구성을 하다가 포기하고 이클립스에 맞게 팀폴더를 만든 후, 팀장님이 인텔리제이에서 작업을 한 후 나중에 복사해서 붙여넣는 방식으로 자료를 통합하기로 정했습니다.<br>
 이 작업을 3시간 가량 했는데 만약 개발환경이 똑같았더라면 이렇게 낭비하는 시간이 없었을건데라는 아쉬움이 남았습니다.<br>
 <br>
-2.작업의 우선 순위 결정 및 공통 작업 분류<br>
+**2.작업의 우선 순위 결정 및 공통 작업 분류**<br>
 우리 조는 admin, customer service, product, login으로 작업을 나누어 진행했습니다다.<br>
 
 login기능 구현이 최우선이 되어야 하는데 우리 조는 그 부분이 그동안 해왔던 것이라 익숙할거라 생각해서 코딩실력이 조금 부족한 팀원에게 맡겼는데 이것이 발표 전 날까지 완료되지 않아서 부랴부랴 완성을 했습니다다.<br> 
 다음에는 로그인 기능을 빨리 구현한 후 프로젝트를 진행하는 것이 좋을 것 같다는 생각을 했습니다.<br> 
 그리고 관리자 파트에서 product, cs와 공통되는 부분인 list출력이나 view, 상품리스트 출력이 있는데 product를 맡은 사람과 CS맡은 사람이 작업을 하면 좋을 것 같다는 생각이 들었습니다.<br>
 <br>
-3.모듈화 진행<br>
+**3.모듈화 진행**<br>
 처음에는 모듈화를 하지 않고 작업을 했는데, 그러다 보니 controller, dao가 qna, faq, notice 각각 생성해야 했습니다.<br>
 그대로 사용해도 되지만 복잡하므로 모듈화를 진행하니 controller, dao가 하나만 생성해서 사용할 수 있게 되었습니다.<br>
