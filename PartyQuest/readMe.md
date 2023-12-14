@@ -86,8 +86,4 @@ etc<br>
 2023.2.2 HeidSQL 12.x <br>Git 2.x.x <br>Github<br> Jira<br> Figma
 
 
-<br>
-<h1>🏗정보구조(IA : Information Architecture)</h1><br>
 
-![image](https://github.com/Phoenix-Argo/partyquest/assets/136154061/798db383-134f-4ed8-b46a-391fd8eac82f)
-----
