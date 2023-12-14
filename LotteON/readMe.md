@@ -21,7 +21,8 @@
 <br>
 <h1>🌟프로젝트 메인 페이지 소개</h1><br>
 
-![image](https://github.com/bllor/Project2023/assets/136154061/38b6e9db-c410-44ea-8335-51995c6a4f75)
+![LotteOn 메인페이지](https://github.com/bllor/Project2023/assets/136154061/99dc1a6e-72b0-43fe-b49d-dc5c7b6dd123)
+
 
 <h1>🌝본인 주요 개발기능</h1>
 
