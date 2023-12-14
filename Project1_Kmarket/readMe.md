@@ -23,9 +23,9 @@ jsp를 사용하여 제작한 쇼핑몰 사이트입니다.
 **Browser** : Chorme 117.0.5938<br>
 **Language(Server)** : Java17 Servlet4.0 JSP2<br>
 **Language(Client)** : HTML5 CSS3 JavaScript(Es6) jQuery3.1<br>
-**Library** : activation-1.1.1.jar<br> cos-05Nov2022.jar<br> gson-2.10.1.jar <br>javax.mail-1.6.2.jar <br>jstl-1.2.jar<br> logback-classic-1.4.11.jar <br>logback-core-1.4.11.jar <br>mysql-connector-java-8.0.32.jar <br>slf4j-api-2.0.7.jar<br> etc<br>
+**Library** : <br>activation-1.1.1.jar<br> cos-05Nov2022.jar<br> gson-2.10.1.jar <br>javax.mail-1.6.2.jar <br>jstl-1.2.jar<br> logback-classic-1.4.11.jar <br>logback-core-1.4.11.jar <br>mysql-connector-java-8.0.32.jar <br>slf4j-api-2.0.7.jar<br> etc<br>
 **DMBS** : MySQL 8.0<br>
-**Tool** : Eclipse IDE 2023-06 Mysql Workbench 8.0.21 HeidSQL 12.5 Git 2.41.0 Github
+**Tool** : Eclipse IDE 2023-06, Mysql Workbench 8.0.21, HeidSQL 12.5 ,Git 2.41.0 ,Github
 
 <h1>본인 주요 개발기능</h1>
 
