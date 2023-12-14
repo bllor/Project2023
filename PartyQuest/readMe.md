@@ -1,4 +1,8 @@
+<div align=center>
 
+  ![파티퀘스트 로고](https://github.com/bllor/Project2023/assets/136154061/40df2242-f521-40b4-b8e5-6a67b0289f22)
+
+</div>
 
 <h1> PARTY_QUEST</h1><br>
 개발자 스터디 모임 커뮤니티 웹사이트
