@@ -1,8 +1,12 @@
 
-<div align=center>![image](https://github.com/bllor/Project2023/assets/136154061/bebfd6ff-c7af-4240-ae0b-db49c65f8a55)</div>
+<div align=center>
+  
+  ![image](https://github.com/bllor/Project2023/assets/136154061/bebfd6ff-c7af-4240-ae0b-db49c65f8a55)
+
+</div>
 
 
-<h1>프로젝트 소개</h1><br>
+<h1>🛒프로젝트 소개</h1><br>
 jsp를 사용하여 제작한 쇼핑몰 사이트입니다.
 
 <h1>⏱ 프로젝트 기간</h1><br>
