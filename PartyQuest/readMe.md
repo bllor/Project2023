@@ -31,6 +31,7 @@
 
 
 <h1> 🌝프로젝트 주요 기능 소개</h1><br>
+
 **1.멤버**<br>
 -회원가입<br>
 -로그인<br>
@@ -63,6 +64,7 @@
 
 
 <h1> 🖥개발 환경</h1><br>
+
 **OS**: Window10<br>
 **Browser** : Chrome<br>
 **Language(Server)** : Java 17,Spring boot 3.1.4, Spring Security, Spring Data JPA etc<br>
